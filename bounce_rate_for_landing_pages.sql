@@ -1,5 +1,7 @@
--- Business Case: 	Analyse bounce rates on the landing page /lander-1 for the specific campaign 'nonbrand' and the traffic source 'gsearch'.
--- 					Compare bounce rate with /home page.
+-- Business Case: 
+
+-- Analyse bounce rates on the landing page /lander-1 for the specific campaign 'nonbrand' and the traffic source 'gsearch'.
+-- Compare bounce rate with /home page.
 
 -- To Dos:
 
