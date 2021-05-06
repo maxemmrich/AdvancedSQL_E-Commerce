@@ -18,4 +18,7 @@ This are the results:
 
 ![](/images/billing_page_analysis.JPG)<br>
 #### [-> SQL-Code](https://github.com/maxemmrich/AdvancedSQL_E-Commerce/blob/main/billing_page_analysis.sql) 
+<br>
 
+### Question 3: 
+**More to come soon** 
