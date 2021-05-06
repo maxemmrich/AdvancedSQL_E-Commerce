@@ -5,5 +5,5 @@ The analysis within this little project has been done using a sample database of
 ### Question 1: 
 The database includes data on different campaigns and landing pages. I chose the bounce rate as an important metric to analyse. 
 This are the results:
-![](/images/bounce_rate_for_landing_pages.JPG)
+<img src=https://github.com/maxemmrich/AdvancedSQL_E-Commerce/blob/main/bounce_rate_for_landing_pages.JPG" width="500"/>
 #### [SQL-Code](https://github.com/maxemmrich/AdvancedSQL_E-Commerce/blob/main/bounce_rate_for_landing_pages.sql) 
