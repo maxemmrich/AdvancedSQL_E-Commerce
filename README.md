@@ -8,13 +8,14 @@ This are the results:
 
 
 ![](/images/bounce_rate_for_landing_pages.JPG)
- #####[-> SQL-Code](https://github.com/maxemmrich/AdvancedSQL_E-Commerce/blob/main/bounce_rate_for_landing_pages.sql) 
+ #### [-> SQL-Code](https://github.com/maxemmrich/AdvancedSQL_E-Commerce/blob/main/bounce_rate_for_landing_pages.sql) 
+
 
 ### Question 2: 
 **How are the two billing pages /billing and /billing-2 performing?** The company did an A/B-test on two different billing pages. I analysed the conversion rate of these two.
 This are the results:
 
 
-![](/images/billing_page_analysis.JPG)
-#####[-> SQL-Code](https://github.com/maxemmrich/AdvancedSQL_E-Commerce/blob/main/billing_page_analysis.sql) 
+![](/images/billing_page_analysis.JPG)<br>
+#### [-> SQL-Code](https://github.com/maxemmrich/AdvancedSQL_E-Commerce/blob/main/billing_page_analysis.sql) 
 
